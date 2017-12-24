@@ -4,8 +4,7 @@
 
 <body>
 <p>Hello World</p>
-<<<<<<< HEAD
-<p>Welcome back!!</p>
+<p>this is my first page</p>
 
 </body>
 </html>
